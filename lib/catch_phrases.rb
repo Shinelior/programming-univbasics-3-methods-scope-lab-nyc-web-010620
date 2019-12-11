@@ -8,8 +8,8 @@ return phrase
 end
 
  def toadstool
-   puts  status
-   return status
+   puts  $status
+   return $status
    
  end
 
